@@ -15,4 +15,4 @@ SHARFUDDIN.ZISHAN@GMAIL.COM
 5. Wait for some times to upload the script to server.. 
 6. After 100% upload successful then now click next and click install application
 7. After successfully installed and also supporting objects then now run application.
-15 User Name: RMS-00001 password: 123 & Now type the given below captcha.
+8. User Name: RMS-00001 password: 123 & Now type the given below captcha.
